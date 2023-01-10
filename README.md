@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjmaheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="kunjmaheshwari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunjmaheshwari" alt="kunjmaheshwari" /></a> </p>
-
 - 🌱 I’m currently learning **Python, Data Structure and Algorithms**
 
 - 📫 How to reach me **kunj.maheshwari2021@vitbhopal.ac.in**
@@ -24,4 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunjmaheshwari&show_icons=true&locale=en" alt="kunjmaheshwari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunjmaheshwari&" alt="kunjmaheshwari" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunjmaheshwari" alt="kunjmaheshwari" /></a> </p>
 
