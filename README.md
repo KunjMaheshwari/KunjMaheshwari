@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 📫 How to reach me **kunj.maheshwari2021@vitbhopal.ac.in**
+- 📫 How to reach me **kunjm@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kunj-maheshwari-05b97b22a](https://www.linkedin.com/in/kunj-maheshwari-05b97b22a)
 
