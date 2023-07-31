@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunj Maheshwari</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<h3 align="center">Pre Final Year Student at VIT Bhopal University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjmaheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="kunjmaheshwari" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/KunjMaheshwari](https://github.com/KunjMaheshwari)
 
-- 📝 I regularly write articles on [https://medium.com/@kunj.maheshwari2021](https://medium.com/@kunj.maheshwari2021)
+- 📝 I write articles on [https://medium.com/@kunj.maheshwari2021](https://medium.com/@kunj.maheshwari2021)
 
 - 📫 How to reach me **kunjm@outlook.com**
 
