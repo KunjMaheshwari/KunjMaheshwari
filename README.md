@@ -15,7 +15,7 @@
 
 ###
 
-<h2 align="center">Pre Final Year Student at VIT Bhopal University</h2>
+<h2 align="center">Final Year Student at VIT Bhopal University</h2>
 
 ###
 
