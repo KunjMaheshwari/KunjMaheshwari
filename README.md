@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="center">AWS Certified Cloud Practitioner || Core member of TEDx VIT Bhopal</h2>
+<h2 align="center">AWS Certified Cloud Practitioner</h2>
 
 ###
 
