@@ -19,7 +19,7 @@
 
 ###
 
-<h2 align="center">AWS Certified Cloud Practitioner</h2>
+<h2 align="center">Computer Science Engineer</h2>
 
 ###
 
