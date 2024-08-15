@@ -32,7 +32,7 @@ As an aspiring software engineer with a strong Computer Science and Engineering 
 
 ###
 
-## GSSOC(24) Badges 🪶
+## GSSOC(24) Badge 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" href="https://academy.postman.com/path/postman-api-fundamentals-student-expert/postman-api-fundamentals-student-expert-certification-1"/>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px"/>
 </div>
