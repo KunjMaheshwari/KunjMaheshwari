@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunjmaheshwari" alt="kunjmaheshwari" /></a> </p>
 
-- 🔭 I’m currently working on [The Utopia Resort Restaurant](https://the-utopia-resort-restaurant.vercel.app/)
+- 🔭 I’m currently working on [Retraining of LLM Models]
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on [Medicare](https://medicare-gov-schemes.netlify.app/)
+- 👯 I’m looking to collaborate on [Medicare](https://medicare-five-rouge.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/KunjMaheshwari](https://github.com/KunjMaheshwari)
 
