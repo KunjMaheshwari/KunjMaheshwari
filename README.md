@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kunj Maheshwari</h1>
-<h3 align="center">Analyst Trainee at Cognizant</h3>
+<h3 align="center">Progammer Analyst Trainee at Cognizant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjmaheshwari&label=Profile%20views&color=0e75b6&style=flat" alt="kunjmaheshwari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kunjmaheshwari" alt="kunjmaheshwari" /></a> </p>
 
-- 🔭 I’m currently working under **Quality Engineer with Selenium Automation**
+- 🔭 I’m currently working under **Healthcare Business Unit**
 
-- 🌱 I’m currently learning **Selenium, Jenkins, Docker, Testing, Data Structures and Algorithms**
-
-- 👯 I’m looking to collaborate on [Medicare](https://medicare-five-rouge.vercel.app/)
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KunjMaheshwari](https://github.com/KunjMaheshwari)
 
