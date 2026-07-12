@@ -1,0 +1,56 @@
+<table>
+
+<tr>
+
+
+
+<td width="38%">
+
+
+
+<img src="KunjMaheshwari.png" width="330"/>
+
+
+
+</td>
+
+
+
+<td width="62%">
+
+
+```bash
+
+kunj@workstation:~$ open case_file.txt
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CASE ID        : SDE-001
+STATUS         : PREPARING FOR FAANG
+CLASSIFICATION : Software Engineer
+NAME           : Kunj Maheshwari
+ALIAS          : The Automation Engineer
+AGE            : 23
+LOCATION       : India
+CURRENT ROLE   : Programmer Analyst Trainee
+ORGANIZATION   : Cognizant
+SPECIALIZATION :
+ • Java Development
+ • Data Structures & Algorithms
+ • Backend Development
+ • React & Next.js
+ • Test Automation (Selenium, Playwright)
+ • REST API Testing
+ • Full Stack Development
+ • AI-Powered Applications
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+```
+
+
+
+</td>
+
+
+
+
+
+---
