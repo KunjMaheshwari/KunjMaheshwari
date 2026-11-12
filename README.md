@@ -1,274 +1,244 @@
 <div align="center">
-
-# Hey, I'm Kunj Maheshwari 👋
-### Software Engineer • Automation Engineer • AI Explorer
-
-I build software, automate what shouldn't be manual, and keep exploring what happens when
-**software engineering meets AI.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-KunjMaheshwari-181717?style=for-the-badge&logo=github)](https://github.com/KunjMaheshwari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunj_Maheshwari-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kunjm)
-[![LeetCode](https://img.shields.io/badge/LeetCode-kunjm-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kunjm/)
-
+<img src="https://ghchart.rshah.org/409ba5/KunjMaheshwari" alt="GitHub contribution graph" width="100%" />
 </div>
 
----
+👋🏻 Hey, I’m Kunj
 
-## 🧭 The short version
+I’m a software engineer passionate about building reliable backend systems, developer tools, and AI-powered applications.
 
-> **Kunj is the kind of engineer who builds software, understands how to test it, automates the boring parts, and is now learning how to make software intelligent.**
+I enjoy working across the engineering lifecycle — understanding problems, designing systems, building solutions, and ensuring they behave reliably in real-world conditions.
 
-My engineering journey has moved through three connected layers:
+My experience in software development and quality engineering has shaped how I approach engineering: good software should be scalable, maintainable, testable, and useful.
 
-```text
-        BUILD                    BREAK                     RE-IMAGINE
-          │                        │                           │
-          ▼                        ▼                           ▼
-   Software Engineering     Automation & Quality         AI Engineering
-          │                        │                           │
-   APIs • Backend • Web      Selenium • Playwright      LLMs • Agents • AI Apps
-   Java • Node • React       API Testing • CI/CD        Streaming • Workflows
-```
+Currently exploring Backend Engineering, Java, Spring Boot, AI Agents, LLM Applications, and System Design.
 
-I like that combination because good software isn't just about making it work.
+⸻
 
-It's about making it reliable, testable, scalable, and increasingly intelligent.
+🚀 Featured projects
 
----
+<table border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KunjMaheshwari/spring-ai-website-builder-agent">
+        <img
+          src="https://raw.githubusercontent.com/KunjMaheshwari/spring-ai-website-builder-agent/main/screenshots/tomato-support.png"
+          alt="Spring AI Website Builder Agent screenshot"
+          width="100%"
+        />
+      </a>
+      <br/>
+      <sub><b>AI Engineering · Website Generation</b></sub>
+      <h3>
+        <a href="https://github.com/KunjMaheshwari/spring-ai-website-builder-agent">Spring AI Website Builder Agent</a>
+      </h3>
+      <p>An AI agent that generates websites through LLM tool calling and integrated utilities.</p>
+      <sub>Java · Spring Boot · Spring AI · OpenRouter</sub>
+    </td>
+<td width="50%" valign="top">
+  <a href="https://github.com/KunjMaheshwari/Netflix-Movie-Recommendation-System-with-Vector-Embeddings">
+    <img
+      src="https://raw.githubusercontent.com/KunjMaheshwari/Netflix-Movie-Recommendation-System-with-Vector-Embeddings/main/src/main/resources/static/recommendation%20ui.png"
+      alt="Netflix Movie Recommendation System screenshot"
+      width="100%"
+    />
+  </a>
+  <br/>
+  <sub><b>AI Engineering · Semantic Search</b></sub>
+  <h3>
+    <a href="https://github.com/KunjMaheshwari/Netflix-Movie-Recommendation-System-with-Vector-Embeddings">Netflix Movie Recommendation System</a>
+  </h3>
+  <p>A semantic movie discovery application using vector embeddings to find movies based on meaning and context.</p>
+  <sub>Java · Spring Boot · Spring AI · Vector Embeddings</sub>
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KunjMaheshwari/AI-Aviation-Jobs">
+        <img
+          src="https://img.shields.io/badge/AI%20AVIATION%20JOBS-Candidate%20%7C%20Employer%20Portal-17324D?style=for-the-badge&labelColor=101827"
+          alt="AI Aviation Jobs project banner"
+          width="100%"
+        />
+      </a>
+      <br/>
+      <sub><b>Full-Stack Development · Recruitment</b></sub>
+      <h3>
+        <a href="https://github.com/KunjMaheshwari/AI-Aviation-Jobs">AI Aviation Jobs</a>
+      </h3>
+      <p>A recruitment platform with candidate and employer workflows, secure authentication, job listings, and application management.</p>
+      <sub>Node.js · Express 5 · SQLite · JavaScript · Playwright</sub>
+    </td>
+<td width="50%" valign="top">
+  <a href="https://github.com/KunjMaheshwari/ToothSync">
+    <img
+      src="https://img.shields.io/badge/TOOTHSYNC-Dental%20Practice%20Management-287D74?style=for-the-badge&labelColor=102B29"
+      alt="ToothSync project banner"
+      width="100%"
+    />
+  </a>
+  <br/>
+  <sub><b>Full-Stack Development · Practice Management</b></sub>
+  <h3>
+    <a href="https://github.com/KunjMaheshwari/ToothSync">ToothSync</a>
+  </h3>
+  <p>A local-first dental practice management platform for patient records, appointments, clinical workflows, prescriptions, and billing.</p>
+  <sub>Next.js · React · TypeScript · Prisma · SQLite · Google Sheets API</sub>
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/KunjMaheshwari/LogicK">
+        <img
+          src="https://raw.githubusercontent.com/KunjMaheshwari/LogicK/main/public/LogicKLogo.svg"
+          alt="LogicK logo"
+          width="100%"
+          height="180"
+        />
+      </a>
+      <br/>
+      <sub><b>Agentic AI · Automation Platform</b></sub>
+      <h3>
+        <a href="https://github.com/KunjMaheshwari/LogicK">LogicK</a>
+      </h3>
+      <p>An AI-powered automation platform exploring agentic task execution, tool integrations, and isolated code execution.</p>
+      <sub>Next.js · React · PostgreSQL · Prisma · Inngest · Clerk · E2B</sub>
+    </td>
+<td width="50%" valign="top">
+  <h3>🌍 Open Source Contributions</h3>
 
-## ⚙️ What I work with
+  <p>
+    Contributing to open-source projects, improving developer tools,
+    fixing issues, and collaborating with engineering communities.
+  </p>
 
-**Languages**
+  <h4>Repositories</h4>
 
-**Software Engineering**
+  <ul>
+    <li>
+      <a href="https://github.com/Nano-Collective/nanocoder">
+        <b>NanoCoder</b>
+      </a>
+      <br/>
+      <sub>
+        PR #1985 — Support million-token context limit suffixes
+        <a href="https://github.com/Nano-Collective/nanocoder/pull/1985">
+          View PR ↗
+        </a>
+      </sub>
+    </li>
+  </ul>
 
-**Data & Cloud**
+  <p>
+    <b>Exploring:</b> Developer tooling, AI infrastructure,
+    backend ecosystems, and community-driven projects.
+  </p>
 
-**Automation & Quality Engineering**
+  <sub>Code · Collaboration · Community</sub>
+</td>
+  </tr>
+</table>
 
-**AI / Emerging**
+⸻
 
-Current direction: Software Engineering → Automation → AI Engineering
+🛠️ Technologies & tools
 
----
+Languages
 
-## 🚀 Selected work
+* Java
+* JavaScript
+* TypeScript
+* SQL
 
-### 🧠 Regen-AI
+Backend & frameworks
 
-A production-minded streaming AI chat application
+* Spring Boot
+* Node.js
+* Express.js
+* REST API Development
+* Next.js
+* React
 
-Built around the engineering problems that appear after the basic "call an LLM" demo is finished:
+Databases & infrastructure
 
-- ⚡ Token-by-token streaming responses
-- 🔁 Retry and fallback handling for provider failures and rate limits
-- 💾 Persistent conversations using Prisma + PostgreSQL
-- 🧪 Playwright E2E coverage for streaming and failure scenarios
-- 🏗️ Next.js App Router + API route handlers
+* PostgreSQL
+* MySQL
+* MongoDB
+* SQLite
+* Prisma
+* Docker
+* GitHub Actions
+* Jenkins
 
-**Stack:** Next.js, React, PostgreSQL, Prisma, OpenRouter, Playwright
+AI & emerging technologies
 
----
+* Spring AI
+* LLM Integrations
+* OpenRouter
+* Vector Embeddings
+* AI Agents
+* Tool Calling
+* Agentic Workflows
 
-### 🤖 LogicK
+Automation & testing
 
-AI-powered automation for dynamic task execution
+* Selenium WebDriver
+* Playwright
+* REST Assured
+* TestNG
+* Cucumber
+* API Testing
+* End-to-End Testing
 
-An exploration into building software that can do more than execute predefined flows:
+⸻
 
-- LLM-driven workflows
-- Event-driven task orchestration
-- External tool integrations
-- Secure execution through isolated environments
-- Authentication and end-to-end workflow validation
+🧪 Engineering experience
 
-**Stack:** Node.js, REST APIs, Inngest, Clerk, E2B, LLM Workflows
+My experience in enterprise quality engineering has given me practical exposure to complex applications, integrations, automation frameworks, and end-to-end workflows.
 
----
+I’ve worked with enterprise platforms including Oracle EPM, Workday, and Veeva, using technologies such as Java, Selenium, Playwright, TestNG, and API testing.
 
-### 🍽️ The Utopia Resort
+One engineering principle I particularly value is solving recurring problems at the right abstraction layer — improving the framework or underlying system instead of repeatedly patching individual tests.
 
-Full-stack restaurant & food-ordering platform
+I see software development and quality engineering as complementary disciplines:
 
-A project where I explored the intersection of product development, backend architecture and real-time workflows.
+Build it well. Make it reliable. Test it continuously.
 
-- RESTful backend services
-- MongoDB data modelling and query optimization
-- Role-based access control
-- Dynamic menu management
-- Order lifecycle management
-- Modular service design
+⸻
 
-**Stack:** React, Node.js, Express.js, MongoDB
+🏅 Milestones
 
----
+* Claude Certified Architect — Foundations (CCA-F)
+* 500+ Data Structures and Algorithms problems solved
+* Built reusable Java-based UI and API automation frameworks
+* Delivered enterprise automation proof of concepts
+* Experience with end-to-end application workflows and API integrations
+* Exploring AI engineering and agentic application development
 
-### 🔌 REST API Automation Framework
+⸻
 
-Turning API contracts into repeatable confidence
+🌱 Currently learning
 
-A Java + REST Assured + TestNG automation framework focused on regression and service validation.
+* Backend architecture and scalable system design
+* Distributed systems fundamentals
+* Java and Spring Boot application development
+* Database internals and performance optimization
+* AI engineering and LLM application architecture
+* Agentic workflows and tool-using systems
+* Data Structures and Algorithms
 
-- GET / POST / PUT workflow automation
-- HTTP status validation
-- JSON response verification
-- Request / response handling
-- Reusable API test components
+⸻
 
-**Stack:** Java, REST Assured, TestNG, REST APIs
+📫 Find me around the web
 
----
+* GitHub: @KunjMaheshwari
+* LinkedIn: kunjm
+* LeetCode: kunjm
+* Portfolio: Personal Website
 
-### 🏥 Medicare
-
-A centralized healthcare information platform
-
-A collaborative project focused on structured data flow, reusable components and reliable backend integration.
-
-**Focus:** Backend Integration, Data Flow, Modularity, System Reliability
-
----
-
-## 🧪 The automation side of me
-
-Before exploring AI, I spent a significant part of my engineering journey learning how software fails.
-
-At Cognizant, I've worked with enterprise applications including Oracle EPM, Workday, Veeva Quality CC and Appian, using Java, Selenium, Playwright, TestNG and automation frameworks.
-
-One of my favourite engineering lessons came from a framework-level problem:
-
-**Browser automation couldn't reliably handle multiple downloads.**
-
-Instead of solving it repeatedly at test level, I worked on the WebDriver Factory itself to support multiple file downloads and remove the limitation at the framework layer.
-
-That's the kind of engineering I enjoy:
-
-```text
-Symptom
-   ↓
-Investigate
-   ↓
-Find the real bottleneck
-   ↓
-Fix it at the right abstraction level
-   ↓
-Make everyone else's code simpler
-```
-
----
-
-## 🏆 A few milestones
-
-- 🎓 B.Tech — Computer Science & Engineering, VIT Bhopal
-- 💻 500+ DSA problems solved
-- 🏅 Cognizant awards for performance, collaboration and contribution
-- 🤖 Selected for Cognizant's AI Builder Talent Program — AI-Augmented Quality Engineer track
-- 🧑‍🏫 Conducted Java & Selenium knowledge-transfer sessions
-- 🔍 Participated in technical interviews for automation engineering roles
-- 🧠 Claude Certified Architect — Foundations
-- ☁️ AWS Certified Cloud Practitioner
-- 🧩 Dataiku Generative AI Practitioner
-- 🔮 Oracle Agentic AI Foundations Associate
-
----
-
-## 📊 GitHub × LeetCode
+⸻
 
 <div align="center">
 
-<a href="https://github.com/KunjMaheshwari">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KunjMaheshwari&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/KunjMaheshwari">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunjMaheshwari&layout=compact&hide_border=true&langs_count=8" />
-</a>
-<br/>
-<a href="https://leetcode.com/u/kunjm/">
-  <img src="https://leetcard.jacoblin.cool/kunjm?theme=light&font=baloo&ext=heatmap" alt="Kunj's LeetCode Stats" />
-</a>
-
-</div>
-
----
-
-## 🧩 How I think about engineering
-
-I don't want to be the engineer who only knows how to write code.
-
-I want to understand the whole loop:
-
-```text
-        ┌──────────────┐
-        │   PROBLEM    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   DESIGN     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    BUILD     │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │    TEST      │ ←──── Automation
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   OBSERVE    │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │   IMPROVE    │
-        └──────┬───────┘
-               │
-               └──────────────→ repeat
-```
-
-And increasingly:
-
-**What if the software could reason about the workflow too?**
-                         ↓
-                    **AI / Agents**
-
----
-
-## 🌱 Learning now
-
-I'm currently going deeper into:
-
-- 🧠 AI Engineering & LLM application architecture
-- 🤖 Agentic workflows and tool-using systems
-- 🏗️ Backend architecture & scalable system design
-- ⚡ Distributed systems fundamentals
-- 🧮 Data Structures & Algorithms
-- ☁️ Cloud-native engineering
-
-Not because the stack is trendy.
-
-Because I want to understand how modern software is actually built at scale.
-
----
-
-## 📫 Let's connect
-
-If you're working on:
-
-- interesting backend systems
-- developer tooling
-- test automation
-- AI-powered applications
-- agentic workflows
-- or simply a difficult engineering problem
-
-I'd love to hear about it.
-
-**Build something. Break something. Understand why. Build it better.**
-
----
-
-<div align="center">
-
-Engineering is a journey from making things work → making them reliable → making them intelligent.
+Build with curiosity. Engineer with intent. Keep improving.
 
 </div>
